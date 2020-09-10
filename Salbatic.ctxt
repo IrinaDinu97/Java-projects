@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Salbatic
+comment1.params=
+comment1.target=int\ getGrad()
+comment2.params=grad
+comment2.target=void\ setGrad(int)
+comment3.params=nume\ varsta\ grad
+comment3.target=Salbatic(java.lang.String,\ int,\ int)
+comment4.params=
+comment4.target=java.lang.String\ toString()
+numComments=5
